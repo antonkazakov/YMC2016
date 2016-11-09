@@ -2,4 +2,4 @@
 My apps for Yandex Mobile Contest 2016 
 
 
-![alt text](art/squats_1.png =120px "Description goes here" )
+![alt text](art/squats_1.png =120px)
