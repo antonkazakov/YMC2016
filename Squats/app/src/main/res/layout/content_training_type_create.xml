@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_training_type_create"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.antonkazakov.squats.Screen.TrainingType.TrainingTypeCreateActivity"
+    tools:showIn="@layout/activity_training_type_create">
+
+    <EditText
+        style="@style/etStyle"
+        android:maxLength="32"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/string_training_name"
+        android:id="@+id/et_name"
+        android:inputType="text" />
+
+    <EditText
+        style="@style/etStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/string_training_desc"
+        android:id="@+id/et_desc"
+        android:inputType="text" />
+
+    <EditText
+        android:maxLength="3"
+        style="@style/etStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/string_squats_number"
+        android:id="@+id/et_num"
+        android:inputType="numberDecimal" />
+
+    <TextView
+        android:textSize="14sp"
+        android:textColor="@color/grey"
+        android:text="Fill info about new training. Name, short description and number of counts required"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView" />
+
+</LinearLayout>

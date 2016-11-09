@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.2.1_0f304de07a8a0308063bfa1cffd93991aa367eea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_858eb276bf4285f0aacef027cb19edd3e024ba17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_1947f4a405a81c3119db13b569eea19291b691fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_748c510c73457ea2a2a4ea13f07856846fb6a964/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.5/571f4e0451db64a7b41dbeb5f2503986fe5acdb4/dagger-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="571f4e0451db64a7b41dbeb5f2503986fe5acdb4">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/dagger-2.5_11e361c94d043b6e25c6255a91671ca2da90bebe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.10/2ac360e8a47601a8dfd044e646f05b99d151f2e0/rxjava-1.1.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2ac360e8a47601a8dfd044e646f05b99d151f2e0">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.10_743ba8d8624fefbd28b5eb5f88a4974dd2a80302/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d3f8ab57967a9149262ad36a46477fc2515f6ac8">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.afollestad.material-dialogs-core-0.9.0.2_5aeaaa548d2f634a9ed53a219ef136395d8fa194/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/exploded-aar/io.realm/realm-android-library/1.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="15a3e65c92d3cde64c725dba8d590a1123d2d213">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.realm-realm-android-library-1.2.0_9e30229751e3bc4b1012af0a586b75e944a1389c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.1.7/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1478a113f04bf0b679037b4f6bd88bd1837b96a3">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/me.zhanghai.android.materialprogressbar-library-1.1.7_8e258c81411cd270379fe0621281f88a06e024db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0e66cc7a018446bdb215251394c988ac16970acd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_e664e6b314e47ac6443fd25adaff7b9249c762c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_2d7753dbaefc3c59104626149e18ab5c79de5845/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_9dd7a6d4cdc95e39fcc87682da5b6fd73617a32c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.4.0_0bda5458872f8a9c7be0c0d5e719df561ff84d5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_035b61b9e77806ec35a16c659d89cdf9ff4ea2d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_e2a4b22a836fb4524a41900ddaf634769072c4c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_3648af5f9f2d046a3d7c6afb5bc391454220f4d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_8a4833b8376fb248cf353971dbc821d18ee0b561/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_dfcb83827f367762055dd3c7a9cb852a8afb10cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_f7d19ff946ed5d74c075bda884e56458579c63eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_ab07a16c286ec7393e17427f9da91a2b6c753360/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_aeac28e60c17e374821e3e5a03754d49ea1b07c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="80b264a036812230281e169bee3ffdcfbefc1f58">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_48441ba1fe8716afab8987ef2b7542ffaa967781/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9deddb281bbf4f65844399129615289ca9f5d22f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/1.2.0/5e4042f9e0d39e0d01d4a8661d01e24995b2cbef/realm-annotations-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e4042f9e0d39e0d01d4a8661d01e24995b2cbef">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/realm-annotations-1.2.0_1e65a6a86eac08cff0011b2c8f03480d81e4d41a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e223e91b413877dcfab91d2320480773d56da38b">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_353a070a2b6ffca4b5af97218f6f7cca76f6db50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a841cbe7795171dcf4afc87ee41167c6bb794cc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8f2b9d57b33d3330ffc138c354d1f294a98d5867/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/exploded-aar/com.getkeepsafe.relinker/relinker/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="264f0bc4c0680cfe7a60fea1f12a43f1ab48e7c8">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.getkeepsafe.relinker-relinker-1.2.1_0366d06e43b27221d6f271a62e0636911b1d79bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2eb6c6ae90a1c72650b250fd1875eed66b9cb0ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/antonkazakov/MyAndroidrojects/YMC/Squats/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_cff65ced9431b48e3a29c1f318824c99856f4171/classes.dex" />
+    </item>
+
+</items>

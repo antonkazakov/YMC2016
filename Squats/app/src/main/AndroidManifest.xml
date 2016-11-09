@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.antonkazakov.squats">
+
+    <uses-feature android:name="android.hardware.sensor.accelerometer" />
+
+    <application
+        android:name=".AppDelegate"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Screen.TrainingType.TrainingTypeCreateActivity"
+            android:label="@string/title_activity_training_type_create"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Screen.CurrentTraining.CurrentTrainingActivity"
+            android:label="Squats"
+            android:theme="@style/AppTheme">
+        </activity>
+        <activity
+            android:name=".Screen.TrainingType.TrainingTypeChooseActivity"
+            android:label="@string/title_activity_training_type_choose"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

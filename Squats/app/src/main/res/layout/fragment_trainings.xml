@@ -1,0 +1,15 @@
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.antonkazakov.squats.Screen.TrainingType.TrainingTypesFragment">
+
+   <android.support.v7.widget.RecyclerView
+       android:layout_marginTop="140dp"
+       android:id="@+id/recyclerView"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+
+   </android.support.v7.widget.RecyclerView>
+
+</android.support.design.widget.CoordinatorLayout>

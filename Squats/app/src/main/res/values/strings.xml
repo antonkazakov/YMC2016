@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Squats</string>
+    <string name="title_activity_main_container">MainContainerActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_create_new_training">New Training</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_training">TrainingActivity</string>
+    <string name="title_activity_training_type_create">New Training</string>
+    <string name="string_training_name">Name</string>
+    <string name="string_training_desc">Description</string>
+    <string name="string_squats_number">Squats number</string>
+    <string name="string_add">Add</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_training_type_choose">Squats</string>
+    <string name="info1">No trainings available. Press + to add new one.</string>
+    <string name="tab_train">Train</string>
+    <string name="tab_stats">Stats</string>
+    <string name="squats_count">" SQUATS"</string>
+    <string name="info3">Возьмите телефон двумя или одной рукой так, чтобы задняя панель телефона была направлена в пол, а экран смотрел в потолок. Тогда измерения будут максимально точными</string>
+    <string name="how_to">HOW TO SQUAT</string>
+
+
+</resources>
