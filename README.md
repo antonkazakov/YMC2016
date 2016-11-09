@@ -55,4 +55,4 @@ What I used:
 
 #### Screenshots
 <img src="art/food_1.png" width="320" />
-<img src="art/food_2.png" width="320" />
+<img src="art/food2.png" width="320" />
