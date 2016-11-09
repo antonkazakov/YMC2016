@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Road Signs</string>
+    <string name="title_activity_recognition">RoadSigns</string>
+    <string name="action_settings">Settings</string>
+    <string name="choose_another">CHOOSE ANOTHER ONE</string>
+    <string name="choose_photo">Choose photo</string>
+</resources>
