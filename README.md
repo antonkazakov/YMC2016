@@ -30,3 +30,16 @@ What I used:
 #### Screenshots
 <img src="art/radio_1.png" width="320" />
 <img src="art/radio_2.png" width="320" />
+
+
+
+## RoadSigns
+Application provides image recognition for road signs. I used CraftAR Cloud recognition API, but free plans only allows upload 20 images as recognize models so actually app can recognize with 90% accuracy only 2 types of signs, other ones can be recognized in 20-40% cases. Build using MVP Clean Architecture design pattern.
+
+What I used: 
+* **Butterknife** for simple viewbindings
+* **Retrofit** for comfy work with REST
+
+#### Screenshots
+<img src="art/signs_1.png" width="320" />
+<img src="art/signs_2.png" width="320" />
