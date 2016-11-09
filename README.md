@@ -22,7 +22,7 @@ Application which allows to listen streaming internet radio from radio stations 
 
 
 What I used: 
-* **RxJava/RxAndroid** to build in-app architecture, deal with sensor and backpressure.
+* **RxJava/RxAndroid** to build in-app architecture
 * **Dagger2** to connect app parts
 * **Butterknife** for simple viewbindings
 * **Retrofit** for comfy work with REST
@@ -43,3 +43,16 @@ What I used:
 #### Screenshots
 <img src="art/signs_1.png" width="320" />
 <img src="art/signs_2.png" width="320" />
+
+
+## FoodFinder
+Application with Augmented Reality which allow you to know if it is any restaurant or other food place in building. 
+
+What I used: 
+* **RxJava/RxAndroid** to build in-app architecture, deal with sensor and backpressure.
+* **Butterknife** for simple viewbindings
+* **Retrofit** for comfy work with REST
+
+#### Screenshots
+<img src="art/food_1.png" width="320" />
+<img src="art/food_2.png" width="320" />
