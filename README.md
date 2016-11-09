@@ -1,5 +1,6 @@
 # YMC2016
 My apps for **Yandex Mobile Contest 2016**. 
+https://ymc.yandex.ru/?ncrnd=8775
 
 ## Squats
 Application which allows count squats done using Accelerometer sensor or manually by taping button.
