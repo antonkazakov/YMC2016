@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.antonkazakov.foodfinder.ui.MainActivityFragment"
+    tools:showIn="@layout/activity_main">
+    <SurfaceView
+        android:id="@+id/cameraview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <ImageView
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/common_google_signin_btn_icon_dark"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/imageView" />
+
+
+    <RelativeLayout
+        android:visibility="gone"
+        android:id="@+id/layout"
+        android:background="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/imageView"
+        android:layout_toEndOf="@+id/imageView">
+
+        <ImageView
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:id="@+id/img_logo"
+            android:layout_margin="16dp" />
+
+        <TextView
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/img_logo"
+            android:layout_toRightOf="@+id/img_logo"
+            android:layout_toEndOf="@+id/img_logo"
+            android:id="@+id/tv_name" />
+
+        <RatingBar
+            android:layout_width="wrap_content"
+            android:layout_marginRight="16dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/rating"
+            style="@style/Widget.AppCompat.RatingBar.Small"
+            android:layout_alignTop="@+id/tv_name"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <TextView
+            android:textColor="#fff"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_name"
+            android:layout_toRightOf="@+id/img_logo"
+            android:layout_toEndOf="@+id/img_logo"
+            android:id="@+id/tv_address" />
+
+    </RelativeLayout>
+
+</RelativeLayout>
